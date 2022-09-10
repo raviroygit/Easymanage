@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'SohoGothicPro-LightItalic';
+    src:url('../fonts/soho_gothic_pro/SohoGothicPro-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'SohoGothicProRegular';
+    src:url('../fonts/soho_gothic_pro/SohoGothicPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SohoGothicPro-MediumItalic';
+    src: url('../fonts/soho_gothic_pro/SohoGothicPro-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'SohoGothicPro-Medium';
+    src:url('../fonts/soho_gothic_pro/SohoGothicPro-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SohoGothicPro-Italic';
+    src: url('../fonts/soho_gothic_pro/SohoGothicPro-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'SohoGothicPro-Bold';
+    src:url('../fonts/soho_gothic_pro/SohoGothicPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SohoGothicPro-Light';
+    src: url('../fonts/soho_gothic_pro/SohoGothicPro-Light.eot');
+    src: url('../fonts/soho_gothic_pro/SohoGothicPro-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/soho_gothic_pro/SohoGothicPro-Light.woff') format('woff'),
+        url('../fonts/soho_gothic_pro/SohoGothicPro-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}

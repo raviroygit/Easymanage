@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "SohoGothicPro";
+  src: local("SohoGothicPro"),
+   url("./static/fonts/soho_gothic_pro/SohoGothicPro-Italic.ttf") format("truetype");
+  font-weight: bold;
+  }
+
+body {
+  margin: 0;
+  font-family: "SohoGothicPro";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+*{
+  font-family: "SohoGothicPro-Medium";
+}
